@@ -1,3 +1,3 @@
 Halo, saya Yusuf,
-Saya sedang belajar Web Develover,
+Saya sedang belajar membuat Web,
 (>_<)
